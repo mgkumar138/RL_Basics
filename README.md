@@ -14,3 +14,8 @@ These algorithms are tested on either a Linear Maze or a 2D Grid world with a si
 ## Motivation
 Writing out these tabular code by hand helped me learn these concepts better. Hope they can help you understand the basics
 of reinforcement learning too!
+
+## Requirements
+- Python 3.7.9
+- Numpy
+- Matplotlib
